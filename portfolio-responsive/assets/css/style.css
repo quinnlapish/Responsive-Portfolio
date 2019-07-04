@@ -224,12 +224,25 @@ input[type=submit] {
 
 @media (max-width: 768px)
 {
-
+  nav
+  
+  {margin: o auto;
+  display: flex;
+  justify-content: space-around;
+  float: none;}
 
 }
 
 @media (max-width: 640px)
-{
 
+{
+nav
+{
+ 
+  margin: o auto;
+  display: flex;
+  justify-content: space-around;
+  float: none;
+}
   
 }
